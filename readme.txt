@@ -7,3 +7,5 @@ src\actions\actionProperties
 
 
 连接云端
+
+连接本地
