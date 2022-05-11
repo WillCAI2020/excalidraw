@@ -1,5 +1,6 @@
 {
   "labels": {
+    "handChinese": "中文手写",
     "paste": "粘贴",
     "pasteCharts": "粘贴图表",
     "selectAll": "全部选中",
